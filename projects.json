@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Personal Portfolio",
+    "slug": "personal-portfolio",
+    "shortDescription": "A modern personal portfolio built using React and styled components.",
+    "longDescription": "A fully featured personal portfolio website built with the MERN stack, designed to showcase skills, projects, and professional experience. The application features a modern and responsive design, supporting dark/light mode, smooth animations, and reusable components. It is optimized for performance, SEO, and cross-device compatibility. \n\nThe portfolio integrates Cloudinary for image hosting and management, providing fast and reliable media delivery. Built with React Router for seamless navigation and Material UI for a polished, consistent interface. The backend powered by Node.js, Express.js, and MongoDB ensures efficient data management and future scalability.\n\nThis project demonstrates modern web development practices, including component-based architecture, state management, and responsive design principles, making it an ideal showcase of full-stack development skills.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765269760/a6iryfbf0ad2gvafgqbb.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765269845/jfqjebg5cvjat9b7hia5.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765269877/vl9xf5nvaizfpsq4dcgv.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765269906/jcpepthz67q3h2qdq3ep.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765271441/v5khv4mvztvrdncd8kgg.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765270613/dn9pntjzhgjtyogomsjt.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765270745/grduozshozlnmub0mrtm.png"
+    ],
+    "githubLink": "https://github.com/example/portfolio",
+    "liveLink": "https://portfolio-demo.netlify.app",
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "React Router",
+      "Cloudinary",
+      "Material UI"
+    ],
+    "createdAt": { "$date": "2025-01-10T10:00:00Z" },
+    "updatedAt": { "$date": "2025-01-10T10:00:00Z" }
+  },
+  {
+    "title": "E-Commerce Store",
+    "slug": "ecommerce-store",
+    "shortDescription": "A MERN stack e-commerce store with Stripe payments.",
+    "longDescription":"The E-Commerce Store is a fully featured MERN stack online shopping platform built with modern development practices and a clean MVC architecture. It provides a seamless shopping experience for customers while offering powerful management tools for administrators.\n\nThe application uses Firebase Authentication to provide secure login and signup with Google, Facebook, and email-password accounts. It also leverages JWT (JSON Web Tokens) to handle authentication tokens, maintain user sessions, and protect routes so that only authenticated users and admins can access sensitive parts of the application.\n\nFor media handling, the application uses Cloudinary to store and optimize product images, and NodeMailer powers all email operations including password resets and account notifications.\n\nThe store includes a structured two-level category system that allows users to easily browse products by both category and subcategory. Customers can search products, apply price and category filters, view product details, add items to their cart, and complete checkout after logging in. Each user has a personalized dashboard where they can manage their profile information, view and track orders, and update personal details.\n\nThe app also features a dedicated admin dashboard with full CRUD capabilities. Admins can manage categories, subcategories, products, and users, giving them complete control over the platform’s content and operations. Role-based access control ensures security between user and admin privileges.\n\nThe entire interface follows a mobile-first responsive design, providing a smooth and optimized experience across all screen sizes. Built with React.js, Bootstrap, and Material UI, the UI is modern, fast, and intuitive.\n\nThis project demonstrates full-stack development expertise, secure authentication integration, scalable backend design, and professional e-commerce workflows suitable for real-world applications.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765088825/sajwnk50ujbuoaywc7uc.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765124987/b4yhd1z3izcq9efjmank.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125150/gjwprbgangcsz0ojhi5z.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125234/facqu75s9be3pp8m05oc.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125266/rhehzotlm9vy5mpb4phs.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125327/dqeyi4iab2bqexg6bv3t.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125426/smxwtvkzrffxbis1nb6s.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125467/xv3cv03mqoopsqfyaoom.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125580/vsjbpbwcp7u6te7u3ffp.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125624/imfzqqt8ed8vgzpveldt.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125711/qmatfxdw3g1slhrdav1s.png",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1765125368/mnlk8yujifqos2vsw5kp.png"
+    ],
+    "githubLink": "https://github.com/example/ecommerce",
+    "liveLink": "https://ecommerce-demo.vercel.app",
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "React Router",
+      "Firebase Auth",
+      "NodeMailer",
+      "Cloudinary",
+      "BootStrap",
+      "Material UI"
+    ],
+    "createdAt": { "$date": "2025-01-08T12:00:00Z" },
+    "updatedAt": { "$date": "2025-01-08T12:00:00Z" }
+  },
+  {
+    "title": "Task Management App",
+    "slug": "task-management-app",
+    "shortDescription": "A productivity app for managing daily tasks.",
+    "longDescription": "This task management app allows users to create, update, and delete tasks with authentication using JWT. Features include search, pagination, status filters, and mobile-friendly UI.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp"
+    ],
+    "githubLink": "https://github.com/example/task-app",
+    "liveLink": "https://task-manager-demo.netlify.app",
+    "techStack": ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+    "createdAt": { "$date": "2025-01-05T09:30:00Z" },
+    "updatedAt": { "$date": "2025-01-05T09:30:00Z" }
+  },
+  {
+    "title": "Blood Bank Management System",
+    "slug": "blood-bank-management-system",
+    "shortDescription": "A MERN stack blood donation and management portal.",
+    "longDescription": "A complete system designed to streamline blood donation and management processes. Includes role-based authentication, inventory management, donor registration, notifications, and email-based password resets.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp"
+    ],
+    "githubLink": "https://github.com/example/bbms",
+    "liveLink": "https://bbms-demo.vercel.app",
+    "techStack": [
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Firebase Auth",
+      "Cloudinary",
+      "NodeMailer"
+    ],
+    "createdAt": { "$date": "2025-01-02T14:00:00Z" },
+    "updatedAt": { "$date": "2025-01-02T14:00:00Z" }
+  },
+  {
+    "title": "Chat Application",
+    "slug": "chat-application",
+    "shortDescription": "A real-time chat app using Socket.io.",
+    "longDescription": "A lightweight and responsive real-time chat application supporting private messaging, typing indicators, and chat rooms. Built with MERN stack and WebSockets.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp"
+    ],
+    "githubLink": "https://github.com/example/chat-app",
+    "liveLink": "https://chat-demo.vercel.app",
+    "techStack": ["React", "Node.js", "Express.js", "MongoDB", "Socket.io"],
+    "createdAt": { "$date": "2025-01-03T11:45:00Z" },
+    "updatedAt": { "$date": "2025-01-03T11:45:00Z" }
+  },
+  {
+    "title": "AI Chat Application",
+    "slug": "ai-chat-application",
+    "shortDescription": "A real-time chat app using Socket.io.",
+    "longDescription": "A lightweight and responsive real-time chat application supporting private messaging, typing indicators, and chat rooms. Built with MERN stack and WebSockets.",
+    "images": [
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp",
+      "https://res.cloudinary.com/dnwafsenb/image/upload/v1763189465/f9htgy5wvhzbbaolixzc.webp"
+    ],
+    "githubLink": "https://github.com/example/chat-app",
+    "liveLink": "https://chat-demo.vercel.app",
+    "techStack": ["React", "Node.js", "Express.js", "MongoDB", "Socket.io"],
+    "createdAt": { "$date": "2025-01-03T11:45:00Z" },
+    "updatedAt": { "$date": "2025-01-03T11:45:00Z" }
+  }
+]
